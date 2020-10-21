@@ -28,3 +28,15 @@ body,
 .el-cascader-menu {
   height: 300px;
 }
+
+.el-steps {
+  margin: 15px 0px;
+}
+
+.el-step-font {
+  font-size: 12px;
+}
+
+.ql-editor {
+  min-height: 300px;
+}
